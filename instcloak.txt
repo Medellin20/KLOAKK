@@ -1,0 +1,21 @@
+Après avoir cloné le repository tu tapes ces commandes
+
+ dans ton terminal et etant dans le repository cloné:
+
+cd keycloack 15.0.2
+
+cd /bin
+
+./standalone.ch
+
+ Et un serveur se lance 
+ 
+ 
+ Tu ouvres une nouvvelle fenêtre de ton terminal 
+ 
+ Verifier que Symfony est bien installé 
+ 
+ tu lances le serveur en tapant la commande: 
+ 
+ symfony serve
+ 
